@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/chellin/Documents/Android Project/Rocket-Launch-Sample-2-2/Rocket-Launch-Sample-2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c9d1f4660d77c475214c652dda0a227c8ac4139a">
+        <dex dex="/home/chellin/Documents/Android Project/Rocket-Launch-Sample-2-2/Rocket-Launch-Sample-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4d043395aaff2628d4cbdde48965383a8a4fa493/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chellin/Documents/Android Project/Rocket-Launch-Sample-2-2/Rocket-Launch-Sample-2/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/chellin/Documents/Android Project/Rocket-Launch-Sample-2-2/Rocket-Launch-Sample-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_bc883b0799a5ed99b4681cefab7c93b9988b4144/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chellin/Documents/Android Project/Rocket-Launch-Sample-2-2/Rocket-Launch-Sample-2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/chellin/Documents/Android Project/Rocket-Launch-Sample-2-2/Rocket-Launch-Sample-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_f6648457f4cbbed653364bb73f1218ad0b9788f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chellin/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/chellin/Documents/Android Project/Rocket-Launch-Sample-2-2/Rocket-Launch-Sample-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_e6e44a67c79f31f4cf689391025b2613dbd1f65c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chellin/Documents/Android Project/Rocket-Launch-Sample-2-2/Rocket-Launch-Sample-2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/chellin/Documents/Android Project/Rocket-Launch-Sample-2-2/Rocket-Launch-Sample-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_6aa5dec847f7281ee01227d1529fcff2ce2cc06a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chellin/Documents/Android Project/Rocket-Launch-Sample-2-2/Rocket-Launch-Sample-2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9a39c2bc918eda80e449fbfc63540a4da1c56f22">
+        <dex dex="/home/chellin/Documents/Android Project/Rocket-Launch-Sample-2-2/Rocket-Launch-Sample-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4869e9ebe81a8ecf072c07aa29136781f06890f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chellin/Documents/Android Project/Rocket-Launch-Sample-2-2/Rocket-Launch-Sample-2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/chellin/Documents/Android Project/Rocket-Launch-Sample-2-2/Rocket-Launch-Sample-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_12648aff84481fbd51273e4ac4d97282c82d0778/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chellin/Documents/Android Project/Rocket-Launch-Sample-2-2/Rocket-Launch-Sample-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/chellin/Documents/Android Project/Rocket-Launch-Sample-2-2/Rocket-Launch-Sample-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_397f52c507b3b841471b499016001a4293f6c1e2/classes.dex" />
+    </item>
+
+</items>
